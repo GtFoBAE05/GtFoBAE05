@@ -1,11 +1,40 @@
 ### Hi there 👋
 
-<p align="left">
-<a href="https://github.com/GtFoBAE05">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GtFoBAE05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/GtFoBAE05"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=GtFoBAE05&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-</a>
-</p>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k1YmhyN2VjZTRjdDVnYWowZGRobjNiamRlb2U3NW9zbWlmd3I4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="250"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/iman-nuel-02b405270">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>  
+</div>
+
+---
+
+###  About Me :
+I am Mobile and Back End developer from Jakarta, Indonesia.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go " width="75" height="75"/>
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GtFoBAE05&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GtFoBAE05&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <!--
 **GtFoBAE05/GtFoBAE05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
